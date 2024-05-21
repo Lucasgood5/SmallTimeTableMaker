@@ -1,0 +1,65 @@
+#equipe {
+    /* background-color: #f5f515; */
+    /* width: 90vw; */
+    height: auto;
+    margin: auto;
+}
+
+#jobs {
+    /* background-color: #15f515; */
+    /* width: 90vw; */
+    height: auto;
+    margin: auto;
+}
+
+.WorkerDisplay {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.HourDisplay {
+    position: relative;
+    height: 100%;
+    width: 0px;
+    background-color: #333;
+    color: white;
+    border-left: #fff 1px dashed;
+}
+
+.WorkerDay {
+    height: 40px;
+    width: 100%;
+    background-color: #333;
+    color: white;
+    border-top: 1px solid black;
+}
+
+.freetime {
+    background-color: #933;
+    position: relative;
+    height: 100%;
+}
+
+.WorkerDay .ShiftDisplay {
+    height: 100%;
+    background-color: #393;
+    position: relative;
+    color: white;
+    text-align: center;
+}
+
+.JobDisplay {
+    position: relative;
+    background-color: #f00;
+    /* border-top: black 1px solid; */
+}
+
+.GroupDisplay {
+    margin: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+.GroupDisplay Div {
+    position: relative;
+}
