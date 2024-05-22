@@ -20,7 +20,7 @@ function UpdateJobsDiv() {
         let GroupDisplayTimeLine = document.createElement("div")
         GroupDisplay.appendChild(GroupDisplayTimeLine)
         GroupDisplayTimeLine.style.height = maxCapacity * 40 + "px"
-        GroupDisplayTimeLine.style.backgroundColor = "#933"
+        GroupDisplayTimeLine.style.backgroundColor = "#393"
         GroupDisplayTimeLine.style.width = "100%"
 
         let currentDelta = 0
@@ -91,7 +91,7 @@ function UpdateJobsDiv() {
         let GroupDisplayTimeLine = document.createElement("div")
         GroupDisplay.appendChild(GroupDisplayTimeLine)
         GroupDisplayTimeLine.style.height = "40px"
-        GroupDisplayTimeLine.style.backgroundColor = "#933"
+        GroupDisplayTimeLine.style.backgroundColor = "#393"
         GroupDisplayTimeLine.style.width = "100%"
         GroupDisplayTimeLine.style.position = "relative"
 
