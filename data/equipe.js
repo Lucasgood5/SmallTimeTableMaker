@@ -1,11 +1,11 @@
 let Lucas = new Worker("Lucas (R)", "rgb(255, 128, 0)")
-// let Doc = new Worker("Doc (P)", "rgb(128,128,128)")
+let Doc = new Worker("Doc (P)", "rgb(128,128,128)")
 let Nicolas = new Worker("Nicolas", "rgb(255, 0, 0)")
-// let Benjamin = new Worker("Benjamin", "rgb(0, 255, 0)")
-// let Steven = new Worker("Steven", "rgb(0, 0, 255)")
-// let Theo = new Worker("Theo", "rgb(255, 255, 0)")
-// let Aurelien = new Worker("Aurelien", "rgb(255, 0, 255)")
-// let Marius = new Worker("Marius", "rgb(0, 255, 255)")
+let Benjamin = new Worker("Benjamin", "rgb(0, 255, 0)")
+let Steven = new Worker("Steven", "rgb(0, 0, 255)")
+let Theo = new Worker("Theo", "rgb(255, 255, 0)")
+let Aurelien = new Worker("Aurelien", "rgb(255, 0, 255)")
+let Marius = new Worker("Marius", "rgb(0, 255, 255)")
 
 
 // Lucas.addShift(Vcb1, Time(16), Time(18))
